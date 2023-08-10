@@ -9,14 +9,5 @@ I consider myself to be a hard worker who is eager to learn new things. I'm comm
 LinkedIn
 
 💻 Tech Stack:
-HTML5 JavaScript CSS3 Netlify React Supabase Figma
+HTML5 JavaScript CSS3 Figma
 
-📊 GitHub Stats:
-
-
-
-
-🏆 GitHub Trophies
-
-
-✍️ Random Dev Quote
