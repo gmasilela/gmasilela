@@ -6,7 +6,7 @@ I am always eager to learn anything that helps me grow and solve problems, and I
 I consider myself to be a hard worker who is eager to learn new things. I'm commited to learning new technologies and languages.
 
 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/glad-musa-masilela-0a7061272/)https://www.linkedin.com/in/glad-musa-masilela-0a7061272/
+[LinkedIn](https://www.linkedin.com/in/glad-musa-masilela-0a7061272/)
 
 💻 Tech Stack:
 HTML5 JavaScript CSS3 Figma
